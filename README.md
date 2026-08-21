@@ -13,7 +13,7 @@ Now when a new version of the project is released, you can update the app by goi
 If you would prefer to download the app by APK manually, do this:
 1. Download APK on either phone directly or PC
 2. If downloaded on PC, move it onto your phone via either USB transfer or folder sharing.
-3. Press the APK and let your download manager run you through the installation.
+3. Download the APK and let your download manager run you through the installation.
 4. Done
 
 Remember, you'll have to do this every time a new version drops to keep the app up to date.
