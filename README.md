@@ -8,7 +8,7 @@ To do this:
 3. Input the GitHub URL of this project (until ../hofmann-scanner-releases)
 4. Save
 
-Now when a new version of the project is released, you can update the app by going into Obtainium, pressing the app, scrolling  down to reload if newest version isnt displayed yet, and then just press Update.
+Now when a new version of the project is released, you can update the app by going into Obtainium, selecting the app, scrolling down to refresh in case the newest version isnt fetched yet, and then just press Update. (or Install if not installed yet)
 
 If you would prefer to download the app by APK manually, do this:
 1. Download APK on either phone directly or PC
